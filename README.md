@@ -1,8 +1,8 @@
-## Hi there 👋
+## “The gift of words is the gift of deception and illusion.” ~ Children of Dune
 
 ![Model](image-asset.png)
 
-
+## Hello! Welcome to my personal github, where my main goal is to document my data science + nlp journey!
 <!--
 **andreamquiroz/andreamquiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
